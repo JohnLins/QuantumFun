@@ -1,0 +1,2 @@
+* linguist-vendored
+*.qasm linguist-vendored=false
